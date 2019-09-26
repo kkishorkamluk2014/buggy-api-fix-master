@@ -35,4 +35,4 @@ For further reference, please consider the following sections:
 
 * The output expected out of this is as follows
   * Debug why the login for user1@gmail.com fails.
-  * Once the bug is discovered fix it and submit the assignment via git               
+  * Once the bug is discovered fix it and submit the assignment via git 
